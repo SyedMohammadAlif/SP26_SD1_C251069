@@ -1,3 +1,4 @@
+//8. Check if a string is palindrome
 import java.util.*;
 
 public class CW8 {
