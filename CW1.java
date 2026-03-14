@@ -1,3 +1,4 @@
+//1. Print "Hello, World!"
 import java.util.Scanner;
 
 public class CW1 {
