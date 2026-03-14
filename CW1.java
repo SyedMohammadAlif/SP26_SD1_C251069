@@ -1,4 +1,4 @@
-//1. Print "Hello, World!"
+//1. Store and print 5 numbers in an array
 import java.util.Scanner;
 
 public class CW1 {
