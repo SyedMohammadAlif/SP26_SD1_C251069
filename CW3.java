@@ -1,3 +1,4 @@
+//3. Find the smallest number in an array
 import java.util.*;
 
 public class CW3 {
