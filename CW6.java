@@ -1,3 +1,4 @@
+//6. Search for an element in an array
 import java.util.*;
 
 public class CW6 {
