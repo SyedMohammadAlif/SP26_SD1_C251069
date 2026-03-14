@@ -1,3 +1,4 @@
+//10. Convert a string to uppercase and lowercase
 import java.util.*;
 
 public class CW10 {
